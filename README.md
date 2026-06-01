@@ -2,9 +2,9 @@
 
 <img src="https://i.imgur.com/3x4vPD4.png" width="80" alt="logo"/>
 
-# Virus Detector `0V1`
+## Virus Detector `0V1`
 
-— by /＠
+# by /＠
 
 <br/>
 
