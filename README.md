@@ -8,6 +8,9 @@
 
 <br/>
 
+### 👇 Click here to download 👇
+
+[![Download](https://img.shields.io/badge/...
 [![Download](https://img.shields.io/badge/-%E2%AC%87%EF%B8%8F%20Download%20Virus%20Detector%200V1-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BLCK-N/Virus-Detector-0V1-/releases/download/0V1/Virus.Detector.0V1.exe)
 
 <br/>
