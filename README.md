@@ -4,7 +4,7 @@
 
 # Virus Detector `0V1`
 
-*Your safety is our playground* — by /＠
+— by /＠
 
 <br/>
 
