@@ -4,7 +4,7 @@
 
 ## Virus Detector `0V1`
 
-# by /＠
+ by /＠
 
 <br/>
 
